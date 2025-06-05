@@ -9,7 +9,7 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Stats
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamj33l&show_icons=true&locale=en&layout=compact" alt="vedpatel7"&theme=radical />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamj33l&show_icons=true&locale=en&layout=compact" alt="vedpatel7"&theme=github />
   <img  src="https://github-readme-stats.vercel.app/api?username=iamj33l&show_icons=true&hide_border=true&theme=radical" />
 
 </p>
